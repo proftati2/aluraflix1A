@@ -1,0 +1,16 @@
+body{
+    color:black;
+    background: rgb(90, 144, 226);
+    
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+}
+
+body{
+    color:aquamarine;
+    background: black;
+    margin: 0px;
+}
